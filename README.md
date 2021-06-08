@@ -3,6 +3,7 @@
 [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 
 **Description**
+The app is deployed through Heroku. 
 https://scribbster.herokuapp.com/
 
 The Note Taker App is an ExpressJS application for entering notes into a database file. These notes can be to-do lists, reminders, or just general tasks that the user needs a record for.
@@ -17,6 +18,9 @@ The application loads first to a splash page shown below. Clicking the 'Get Star
 
 ![Screen Shot 2021-06-07 at 8 18 15 PM](https://user-images.githubusercontent.com/78760719/121103343-c444d300-c7cd-11eb-83f7-c9e25cbb2252.png)
 
+When a user clicks 'Get Started' they are then directed to another page, which presents a list panel on the left and a container for creating and detailing notes. 
+
+
 
 ## Table of Contents
 
@@ -27,8 +31,6 @@ The application loads first to a splash page shown below. Clicking the 'Get Star
 * [License](#license)
 
 * [Contributing](#contributing)
-
-* [Tests](#tests)
 
 * [Questions](#questions)
 
