@@ -20,6 +20,7 @@ The application loads first to a splash page shown below. Clicking the 'Get Star
 
 When a user clicks 'Get Started' they are then directed to another page, which presents a list panel on the left and a container for creating and detailing notes. 
 
+![Screen Shot 2021-06-07 at 8 33 56 PM](https://user-images.githubusercontent.com/78760719/121104321-c9a31d00-c7cf-11eb-8d3a-a3f1a91771a3.png)
 
 
 ## Table of Contents
